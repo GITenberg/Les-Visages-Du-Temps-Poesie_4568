@@ -1,5 +1,5 @@
 _repo: Les-Visages-Du-Temps-Poesie_4568
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -23,5 +23,6 @@ rights_url: ''
 subjects:
 - !lcsh 'Poetry'
 - !lcc 'PQ'
+- GITenberg
 title: 'Les Visages Du Temps: Poésie'
 url: http://www.gutenberg.org/ebooks/4568
